@@ -156,19 +156,19 @@ mininet> h1 iperf -c 10.0.0.2
 ## Proof of Execution
 
 ### Ryu Controller — Firewall Blocking Log
-![Ryu Controller](screenshots/ryu_controller.png)
+![Ryu Controller](Screenshots/Terminal_1.jpeg)
 
 ### Allowed Traffic — h1 ping h2
-![Allowed Traffic](screenshots/allowed_traffic.png)
+![Allowed Traffic](Screenshots/Allowed,jpeg)
 
 ### Blocked Traffic — h2 ping h3
-![Blocked Traffic](screenshots/blocked_traffic.png)
+![Blocked Traffic](Screenshots/Blocked.jpeg)
 
 ### Flow Table — ovs-ofctl dump-flows s1
-![Flow Table](screenshots/flow_table.png)
+![Flow Table](Screenshots/Flow_Table.jpeg)
 
 ### iperf Throughput Test
-![iperf](screenshots/iperf_result.png)
+![iperf](Screenshots/5.jpeg)
 
 ---
 
