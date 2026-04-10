@@ -159,7 +159,7 @@ mininet> h1 iperf -c 10.0.0.2
 ![Ryu Controller](Screenshots/Terminal_1.jpeg)
 
 ### Allowed Traffic — h1 ping h2
-![Allowed Traffic](Screenshots/Allowed,jpeg)
+![Allowed Traffic](Screenshots/Allowed.jpeg)
 
 ### Blocked Traffic — h2 ping h3
 ![Blocked Traffic](Screenshots/Blocked.jpeg)
